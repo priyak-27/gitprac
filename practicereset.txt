@@ -3,3 +3,5 @@ reset2
 reset3
 reset4
 reset5
+reset6
+reset7
